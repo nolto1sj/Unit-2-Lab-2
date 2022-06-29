@@ -1,0 +1,15 @@
+H:\grand circus\code\Unit 2 Lab 2\Unit 2 Lab 2_c\bin\Debug\net6.0\Unit 2 Lab 2_c.exe
+H:\grand circus\code\Unit 2 Lab 2\Unit 2 Lab 2_c\bin\Debug\net6.0\Unit 2 Lab 2_c.deps.json
+H:\grand circus\code\Unit 2 Lab 2\Unit 2 Lab 2_c\bin\Debug\net6.0\Unit 2 Lab 2_c.runtimeconfig.json
+H:\grand circus\code\Unit 2 Lab 2\Unit 2 Lab 2_c\bin\Debug\net6.0\Unit 2 Lab 2_c.dll
+H:\grand circus\code\Unit 2 Lab 2\Unit 2 Lab 2_c\bin\Debug\net6.0\Unit 2 Lab 2_c.pdb
+H:\grand circus\code\Unit 2 Lab 2\Unit 2 Lab 2_c\obj\Debug\net6.0\Unit 2 Lab 2_c.csproj.AssemblyReference.cache
+H:\grand circus\code\Unit 2 Lab 2\Unit 2 Lab 2_c\obj\Debug\net6.0\Unit 2 Lab 2_c.GeneratedMSBuildEditorConfig.editorconfig
+H:\grand circus\code\Unit 2 Lab 2\Unit 2 Lab 2_c\obj\Debug\net6.0\Unit 2 Lab 2_c.AssemblyInfoInputs.cache
+H:\grand circus\code\Unit 2 Lab 2\Unit 2 Lab 2_c\obj\Debug\net6.0\Unit 2 Lab 2_c.AssemblyInfo.cs
+H:\grand circus\code\Unit 2 Lab 2\Unit 2 Lab 2_c\obj\Debug\net6.0\Unit 2 Lab 2_c.csproj.CoreCompileInputs.cache
+H:\grand circus\code\Unit 2 Lab 2\Unit 2 Lab 2_c\obj\Debug\net6.0\Unit 2 Lab 2_c.dll
+H:\grand circus\code\Unit 2 Lab 2\Unit 2 Lab 2_c\obj\Debug\net6.0\refint\Unit 2 Lab 2_c.dll
+H:\grand circus\code\Unit 2 Lab 2\Unit 2 Lab 2_c\obj\Debug\net6.0\Unit 2 Lab 2_c.pdb
+H:\grand circus\code\Unit 2 Lab 2\Unit 2 Lab 2_c\obj\Debug\net6.0\Unit 2 Lab 2_c.genruntimeconfig.cache
+H:\grand circus\code\Unit 2 Lab 2\Unit 2 Lab 2_c\obj\Debug\net6.0\ref\Unit 2 Lab 2_c.dll
